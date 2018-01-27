@@ -1,0 +1,29 @@
+{
+	"titre": "relations entre les langages de programmation",
+	"zones": [
+		{
+			"id": "g1180",
+			"text": "Ecrire en C, c'est comme utiliser une tronçonneuse avec toutes les protections enlevés."
+		},
+		{
+			"id": "g1166",
+			"text": "Perl est le seul language qui paraît le même avant et après le chiffrement RSA."
+		},
+		{
+			"id": "g1173",
+			"text" : "Avec C il est facile de se tirer dans le pied. En C++, c'est plus difficile, mais lorsque vous le faites, vous pulvérisez votre cuisse entière."
+		},
+		{
+			"id" : "g1145",
+			"text" : "Si Java avait un vrai garbage collector (collecteur de déchets), la plupart des programmes se supprimeraient eux-mêmes lors de l'exécution."
+		},
+		{
+			"id": "g1152",
+			"text": "Javascript est comme un couteau a double tranchant, tu coupes avec et tu te coupes avec en meme temps."
+		},
+		{
+			"id" : "g1159",
+			"text": "PHP c'est du Perl pour les enfants"
+		}
+	]
+}
